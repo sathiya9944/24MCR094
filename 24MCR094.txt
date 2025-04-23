@@ -2,3 +2,4 @@ Name:SATHIYA JOTHI C
 Reg.No:24MCR094
 Dept:MCA
 Fav. Topic: Java
+Mobile Model: Vivo Y12
